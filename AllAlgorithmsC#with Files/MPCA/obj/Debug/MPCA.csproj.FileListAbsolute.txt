@@ -1,0 +1,14 @@
+D:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MPCA\bin\Debug\MPCA.exe.config
+D:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MPCA\bin\Debug\MPCA.exe
+D:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MPCA\bin\Debug\MPCA.pdb
+D:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MPCA\bin\Debug\Emgu.CV.UI.resources.dll
+D:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MPCA\obj\Debug\MPCA.csprojResolveAssemblyReference.cache
+D:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MPCA\obj\Debug\MPCA.exe
+D:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MPCA\obj\Debug\MPCA.pdb
+E:\GP\ConsoleApplication1\MPCA\bin\Debug\MPCA.exe.config
+E:\GP\ConsoleApplication1\MPCA\obj\Debug\MPCA.exe
+E:\GP\ConsoleApplication1\MPCA\obj\Debug\MPCA.pdb
+E:\GP\ConsoleApplication1\MPCA\obj\Debug\MPCA.csprojResolveAssemblyReference.cache
+E:\GP\ConsoleApplication1\MPCA\bin\Debug\MPCA.exe
+E:\GP\ConsoleApplication1\MPCA\bin\Debug\MPCA.pdb
+E:\GP\ConsoleApplication1\MPCA\bin\Debug\Emgu.CV.UI.resources.dll

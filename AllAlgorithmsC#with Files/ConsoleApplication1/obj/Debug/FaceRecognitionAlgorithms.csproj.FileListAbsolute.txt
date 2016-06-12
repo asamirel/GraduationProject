@@ -1,0 +1,24 @@
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\FaceRecognitionAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ZedGraph.dll
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.CV.pdb
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.CV.xml
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.CV.Contrib.pdb
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.Util.pdb
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.Util.xml
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.CV.Cuda.pdb
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ZedGraph.xml
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Abdelaziz Sayed\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\GP\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\GP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\GP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
